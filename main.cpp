@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "stdafx.h" //Ką čia veikia šitas? 
 #include <fstream>
 #include <iostream>
 #include "Saulys.h"
